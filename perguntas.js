@@ -7,8 +7,8 @@ criacartao(
 
 criacartao(
     'Programaçao'
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programaçao'
+    'O que é lipidios?',
+    'é uma gordura'
 )
 
 criacartao(
