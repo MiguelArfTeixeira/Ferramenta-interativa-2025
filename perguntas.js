@@ -1,17 +1,17 @@
 
-criacartao(
+criaCartao(
     'Programaçao',
     'O que é JavaScript?',
     'O JavaScript é uma linguagem de programaçao'
 )
 
-criacartao(
+criaCartao(
     'Programaçao',
     'O que é lipidios?',
     'é uma gordura'
 )
 
-criacartao(
+criaCartao(
     'Programaçao',
     'O que é JavaScript?',
     'O JavaScript é uma linguagem de programaçao'
